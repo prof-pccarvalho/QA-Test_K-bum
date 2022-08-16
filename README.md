@@ -67,7 +67,14 @@ Library Selenium dos seguintes cenários:
 carrinho (Não precisa estar logado). E valide se o produto está no carrinho.
 OBS: Subir no Github e compartilhar o link do repositório.
 
+## Uso do Robot Framework
 *** Primeiro foi instalado o Python, após o RobotFramework e o Seleniumlibrary. Efetuado o download do Chrome Driver e adicionado a pasta do Windows.
+
+*** Para a execução, deve-se entrar na pasta onde está gravado oprojeto, pelo prompt de comando ou uma ferramenta como Hyper ou Cmder e executar com o seguinte comando:
+--> robot -d ./log invalid_user.robot
+--> robot -d ./log1 searchforiPhone.robot
+--> robot -d ./log2 choosetheDepatment.robot
+ As pastas log, log1 e log2 contêm a evidência dos testes.
 
 *** Github
 
