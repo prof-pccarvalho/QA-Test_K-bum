@@ -85,4 +85,4 @@ git remote add origin git@github.com:prof-pccarvalho/QA-Test_K-bum.git
 
 git push -u origin main
 
-# O cenário da escolha de departamento está apresentando erro no locator xpath. Estou entregando este cenário no formato de escrita Gherkin (BDD). Porem os locator não estão fncionado e estou no limite do prazo.Como não consegui negociar prazo, vai a tentativa e esforço.
+# O cenário da escolha de departamento está apresentando erro no locator xpath. Estou entregando este cenário no formato de escrita Gherkin (BDD). Porem os locator não estão funcionado e estou no limite do prazo.Como não consegui negociar prazo, vai a tentativa e esforço.
